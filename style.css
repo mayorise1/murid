@@ -1,20 +1,20 @@
 body {
-    backround-color: #FF6633; /* Warna orange terang */
+    backround-color: #00004D; /* Warna biru gelap */
     font-family: arial, sans-serif; /* jenis huruf yang bersih dan mudah dibaca */
-    color: #191970; /* warna teks utama (Biru gelap) */
+    color: #00004D; /* warna teks utama (Biru gelap) */
 }
 
 .kartu profil {
     width: 300px;
     margin: 50px auto; /* membuat sudut menjadi melengkung */
     padding: 20px;
-    backround-color: white;
-    border-radius: 15px; /* membuat sudut menjadi melengkung */
+    backround-color: 00004D Biru Gelap;
+    border-radius: 10px; /* membuat sudut menjadi melengkung */
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
-    text-align: center; /* Menengahkan semua teks di dalam kartu */
+    text-align: center; /* Menengahkan semua gambar dan teks di dalam kartu */
 }
 
 .kartu-profil img {
-    width: 150px;
-    border-radius: 50%; /* Trik untuk membuat gambar perdegi menjadi lingkaran sempurna */
+        width: 150px;
+        border-radius: 50%; /* Trik untuk membuat gambar perdegi menjadi lingkaran sempurna */
 }
