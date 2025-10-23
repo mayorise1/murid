@@ -8,7 +8,7 @@ body {
     width: 300px;
     margin: 50px auto; /* membuat sudut menjadi melengkung */
     padding: 20px;
-    backround-color: 00004D Biru Gelap;
+    backround-color: Biru Gelap;
     border-radius: 10px; /* membuat sudut menjadi melengkung */
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
     text-align: center; /* Menengahkan semua gambar dan teks di dalam kartu */
