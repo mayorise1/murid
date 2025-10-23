@@ -1,0 +1,15 @@
+body {
+    backround-color: #FF6633; /* Warna orange terang */
+    font-family: arial, sans-serif; /* jenis huruf yang bersih dan mudah dibaca */
+    color: #191970; /* warna teks utama (Biru gelap) */
+}
+
+.kartu profil {
+    width: 300px;
+    margin: 50px auto; /* membuat sudut menjadi melengkung */
+    padding: 20px;
+    backround-color: white;
+    border-radius: 15px; /* membuat sudut menjadi melengkung */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
+}
+
